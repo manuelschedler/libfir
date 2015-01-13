@@ -1,5 +1,6 @@
 #ifndef __fir_h__
 #define __fir_h__
+#include <vector>
 
 class FIR {
 public:
